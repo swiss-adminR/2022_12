@@ -1,6 +1,6 @@
 # 2022_12
 
-Slides of the spring meetup 2022 hosted by Statistik Aargau in Aarau
+Slides of the autumn meetup 2022 hosted by Fedederal Statistical Office in Neuchâtel
 
 R at the Swiss Federal Statistical Office
 Renger van Nieuwkoop
